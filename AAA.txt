@@ -1,4 +1,2 @@
 BBB
 CCC
-DDD
-EEE
